@@ -126,19 +126,19 @@ td.value {
     
 }
 
-@media (min-width:1280px) {
+@media only screen and (min-width:800px) and (max-width:1280px) {
 
     #body {
-        width:30%;
+        width:50%;
     }
 
     img {
-        width:565px;
+        width:100%;
         height:300px;
     }
 }
 
-@media (max-width:400px) {
+@media only screen and (max-width:400px) {
 
     #body {
         width:70%;

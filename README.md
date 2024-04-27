@@ -23,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Recipe-page.git](https://github.com/Yu-cie/Recipe-page.git)
+- Live Site URL: [recipe-page-indol-rho.vercel.app](https://recipe-page-indol-rho.vercel.app/)
 
 ## My process
 
